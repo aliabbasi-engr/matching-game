@@ -1,9 +1,10 @@
 # Matching Game
 This game is developed using C# Windows Form. The game has three levels of complexity and three different themes. 
 
-<img src="easy.jpg" alt="drawing" width="200"/>
-![Easy](easy.jpg)
+<img src="easy.jpg" alt="drawing" width="600"/>
 
-![Medium](medium.jpg)
 
-![Hard](hard.jpg)
+<img src="medium.jpg" alt="drawing" width="600"/>
+
+
+<img src="hard.jpg" alt="drawing" width="600"/>
